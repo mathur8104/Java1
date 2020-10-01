@@ -11,6 +11,8 @@ class HelloWorld {
 
     System.out.println("Hello World");
     System.out.println(1+2);
+    System.out.println("Hello World checking with powee");
+    System.out.println(1**2);
 
 
     
